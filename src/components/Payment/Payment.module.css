@@ -1,0 +1,71 @@
+.mainDiv {
+  width: 80%;
+  height: 100%;
+  margin: auto;
+}
+
+.title {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  padding-bottom: 8px;
+}
+
+.titlecolor {
+  background-color: #2874ff;
+}
+
+input{
+padding: 5px 6px;
+font-size: 0.9em;
+border: none;
+border-bottom: 1px solid #eee;
+width: 250px;
+display: block;
+margin: 20px auto;
+}
+
+.movieDetail {
+padding-top: 8px;
+}
+
+/* .Input input[type=textbox] {
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+} */
+
+input{
+outline: none;
+border-bottom: 2px solid #3e65cf;
+}
+
+.inputs {
+padding-top: 20px;
+}
+
+.button {
+text-align: center;
+}
+.tagContent {
+margin-top: 10%;
+margin-left: 45%;
+}
+.titles {
+float: left;
+}
+.content {
+margin-left: 150px;
+}
+
+.tag {
+padding-bottom: 5px;
+}
+
+.tag1 {
+padding-bottom: 5px;
+}

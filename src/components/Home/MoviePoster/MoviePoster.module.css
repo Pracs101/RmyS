@@ -1,0 +1,28 @@
+/* 
+.oneThirdPlace {
+    width: 29%;
+    padding: 2%;
+    float: left;
+    cursor: pointer;
+}
+
+img {
+    width: 80%;
+    height: 80%;
+} */
+
+.Container {
+    width: 30%;
+    height: 350px;
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+}
+img {
+    width: 100%;
+    height: 90%;
+}
+.title {
+    text-align: center;
+    text-overflow: ellipsis;
+}

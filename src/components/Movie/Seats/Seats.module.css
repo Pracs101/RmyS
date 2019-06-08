@@ -1,0 +1,42 @@
+.Container {
+  width: 90%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 10px auto;
+  text-align: center;
+}
+.Seat {
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  line-height: 30px;
+  font-size: 0.7em;
+  font-weight: bold;
+  cursor: pointer;
+}
+.Seat:hover {
+  background-color: #2874ff;
+}
+.Booked {
+  cursor: not-allowed;
+  background-color: gray;
+}
+.Booking {
+  cursor: not-allowed;
+  background-color: red;
+}
+.Selected {
+  background-color: #2874ff;
+}
+.Screen {
+  width: 200px;
+  height: 30px;
+  border-radius: 4px;
+  text-align: center;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  line-height: 30px;
+}

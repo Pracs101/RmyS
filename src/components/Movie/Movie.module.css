@@ -1,0 +1,18 @@
+.PButton {
+  width: 300px;
+  height: 35px;
+  border: 1px solid #ccc;
+}
+.title {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  padding-bottom: 8px;
+}
+
+.titlecolor {
+  background-color: #2874ff;
+}
+.movieDetail {
+  padding-top: 8px;
+  margin-bottom: 100px;
+}
